@@ -64,7 +64,4 @@
         <h3>Track Your Progress</h3>
         <input type="number" id="height" placeholder="Height (cm)">
         <input type="number" id="weight" placeholder="Weight (kg)">
-        <button onclick="saveProgress()">Save Progress</button>
-    </div>
-</body>
-</html>
+        <button onclick="saveProgress()">Save Progress</button
